@@ -24,7 +24,7 @@ A sleek and responsive weather application that provides real-time weather data 
 
 ## 📷 UI Preview
 
-> 
+>  https://destructorbawa.github.io/Simple_Weather_App/
 
 ## 🚀 Getting Started
 
