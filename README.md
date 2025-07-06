@@ -1,4 +1,5 @@
 🌦️ Weather App
+
 A sleek and responsive weather application that provides real-time weather data for any city using the OpenWeatherMap API. This project demonstrates a practical use of APIs, clean UI design, and responsive web development techniques.
 
 🔍 Features
