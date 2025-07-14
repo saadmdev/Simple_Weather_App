@@ -22,9 +22,9 @@ A sleek and responsive weather application that provides real-time weather data 
 * **JavaScript (Vanilla)** – API interaction and DOM manipulation
 * **OpenWeatherMap API** – Real-time weather data
 
-## 📷 UI Preview
+## 📷 Live View
 
->  https://destructorbawa.github.io/Simple_Weather_App/
+>  [![View Live](https://img.shields.io/badge/View%20Live-%231DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://saadmdev.github.io/Simple_Weather_App/)
 
 ## 🚀 Getting Started
 
